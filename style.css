@@ -103,7 +103,8 @@ section .title::after{
 }
 .home-content{
     position: absolute;
-    top: 38%;
+    top: 30%;
+    left: 35%;
     color: white;
 }
 .home .home-content .text-1{
