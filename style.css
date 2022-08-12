@@ -104,7 +104,6 @@ section .title::after{
 .home-content{
     position: absolute;
     top: 38%;
-    left: 40%;
     color: white;
 }
 .home .home-content .text-1{
