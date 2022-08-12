@@ -94,7 +94,7 @@ section .title::after{
 /* home section styling */
 .home{
     
-    background: url("/Images/picture\ of\ asif.jpg");
+    
     height: 100vh;
     width:  700px;
     padding-left: 10%;
@@ -103,8 +103,8 @@ section .title::after{
 }
 .home-content{
     position: absolute;
-    top: 25%;
-    left: 65%;
+    top: 38%;
+    left: 40%;
     color: white;
 }
 .home .home-content .text-1{
@@ -113,10 +113,10 @@ section .title::after{
     color: black;
 }
 .home .home-content .text-2{
-    font-size: 60px;
+    font-size: 70px;
     font-weight: 600;
-    padding-right: 10%;
     color: black;
+    padding-right:10% ;
 }
 .home .home-content .text-3{
     font-size: 40px;
