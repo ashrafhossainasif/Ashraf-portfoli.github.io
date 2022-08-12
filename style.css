@@ -95,8 +95,9 @@ section .title::after{
 .home{
     position: relative;
     background: url("/Images/picture\ of\ asif.jpg") no-repeat left;
-    height: 180vh;
-    z-index: -1;
+    height: 1350px;
+    width: 1350px;
+    background-size: cover;
 }
 .home-content{
     position: absolute;
